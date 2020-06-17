@@ -12,3 +12,6 @@ https://github.com/ieee8023/covid-chestxray-dataset
 
 For Normal X-Ray
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+## Caution-
+This is just a project made out of interest. Clinical Accuracy isn't guaranteed.
